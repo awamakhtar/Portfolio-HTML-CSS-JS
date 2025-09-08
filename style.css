@@ -1,7 +1,7 @@
  /* Variables et réinitialisation */
  :root {
-     --primary-color: #4a6cf7;
-     --secondary-color: #6f42c1;
+     --primary-color: #13c5b6;
+     --secondary-color: #ec5c1f;
      --dark-color: #1d2144;
      --light-color: #f8f9fa;
      --text-color: #333;
@@ -73,9 +73,6 @@ body {
     color: var(--dark-color);
     position: relative;
 }
-
-
-
 .section-title::after {
     content: '';
     position: absolute;
